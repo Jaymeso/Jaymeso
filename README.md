@@ -37,7 +37,7 @@ Markdown versions of my published and draft articles on governance and architect
 
 ## 🛠️ Skills & Tools  
 - **Identity & Access Management (IAM):** Okta, AWS IAM, Azure Conditional Access  
-- **Zero Trust:** Cloudflare WARP, TLS Decryption pilots, policy enforcement  
+- **Zero Trust:** Cloudflare WARP, TLS traffic inspection, policy enforcement  
 - **Cloud Security:** AWS, Azure, Google Workspace (config, posture mgmt)  
 - **Governance & Risk:** DORA, MiCA, GDPR, vendor risk assessments  
 - **Frameworks:** NIST CSF, STRIDE, UML architecture modeling  
