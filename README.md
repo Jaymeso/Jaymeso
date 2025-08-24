@@ -1,16 +1,16 @@
-# 👋 Hi, I'm James Omorogbe  
+# 👋 Hi, I'm James Omorogbe
 
 🔐 **Cybersecurity Architect | Zero-Trust Advocate | Cloud Security & Risk Governance**  
 
 Welcome to my GitHub portfolio!  
-I specialize in bridging **day-to-day security operations** with **strategic governance**, designing solutions that balance **zero-trust principles, cloud security posture, and regulatory compliance**.  
+I design and ship zero-trust cloud architectures — IAM, network segmentation, device trust, and DLP across AWS/Azure — then map those controls to NIST CSF, DORA, MiCA, and GDPR.  
 
 ---
 
 ## 🚀 About Me  
 - 🛡️ 20+ years experience in IT Audit, Cybersecurity, and Risk Management  
 - 🌍 Currently working at **ConsenSys** (remote-first, cloud-native, Web3/crypto-focused)  
-- ☁️ Experienced across **AWS, Azure, Google Workspace**  
+- ☁️ Experienced across **AWS & Azure, Google Workspace, Cloudflare, Falcon Crowdstrike, CI/CD **  
 - 📜 Skilled in IAM, Zero-Trust, DLP, and regulatory frameworks (NIST CSF, MiCA, DORA, GDPR)  
 - ✍️ Published author on ISACA Now blog — *“Multilayer Zero-Trust Security: A Blueprint from Biological Cell Architecture”*  
 
