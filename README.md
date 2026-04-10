@@ -1,35 +1,42 @@
 # James Omorogbe
 
-Cybersecurity, cloud security, and GRC engineering.
+Founder of **Calm Resilience Security Ltd**.
 
-I work at the point where security architecture, governance, and delivery meet: building practical controls, translating technical risk into business language, and turning assurance into something repeatable.
+**Calm under pressure. Security by design.**
 
-## Focus Areas
+This profile brings together public work focused on security architecture, resilience, governance, risk, and practical assurance. The aim is simple: turn complex controls, evidence, and technical findings into outcomes that operating teams can use and leaders can trust.
 
-- Cloud security architecture across AWS and Azure
+## What Calm Resilience Security Ltd Stands For
+
+- Practical security that holds up under real operating pressure
+- Resilience designed into systems, controls, and ways of working
+- Assurance built on evidence, not just policy language
+- Governance and risk work translated into clear business decisions
+
+## Core Areas
+
+- Cloud security and control architecture
 - Identity, access, and zero-trust design
-- GRC engineering, control mapping, and evidence workflows
+- GRC engineering and evidence workflows
 - Regulatory and framework alignment including NIST CSF, GDPR, DORA, and MiCA
+- Training and practical governance delivery
 
 ## Featured Public Work
 
 ### [GRC as Code Lab](https://github.com/Jaymeso/grc-as-code-lab)
 
-A hands-on governance engineering project that turns infrastructure findings into control failures, framework impacts, risk scores, evidence outputs, and executive reporting.
+A governance engineering project that turns infrastructure findings into control outcomes, framework impacts, risk scoring, evidence outputs, and executive reporting.
 
-### [jaymeso.github.io](https://jaymeso.github.io/)
+### [Calm Resilience Security Ltd](https://jaymeso.github.io/)
 
-A public landing page for training and portfolio visibility. Public-safe summaries live there, while private teaching assets are managed separately.
+A public company landing page for Calm Resilience Security Ltd. Public-safe summaries live there while delivery materials and training assets remain private.
 
-## Working Style
+## Approach
 
-- Build for clarity, not just compliance
-- Prefer evidence-backed assurance over checklist-only security
+- Build for clarity, not noise
+- Prefer evidence-backed assurance over checkbox compliance
 - Connect technical controls to operational and regulatory outcomes
-
-## Current Direction
-
-This GitHub profile is being curated around practical security, GRC-as-code, and training-focused work. Over time, it will highlight a smaller set of polished public repositories rather than placeholder project ideas.
+- Design for trust, resilience, and repeatability
 
 ## Background
 
