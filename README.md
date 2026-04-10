@@ -1,55 +1,38 @@
-# 👋 Hi, I'm James Omorogbe
+# James Omorogbe
 
-🔐 **Cybersecurity Architect | Zero-Trust Advocate | Cloud Security & Risk Governance**  
+Cybersecurity, cloud security, and GRC engineering.
 
-Welcome to my GitHub portfolio!  
-I design and ship zero-trust cloud architectures — IAM, network segmentation, device trust, and DLP across AWS/Azure — then map those controls to NIST CSF, DORA, MiCA, and GDPR.  
+I work at the point where security architecture, governance, and delivery meet: building practical controls, translating technical risk into business language, and turning assurance into something repeatable.
 
----
+## Focus Areas
 
-## 🚀 About Me  
-- 🛡️ 20+ years experience in IT Audit, Cybersecurity, and Risk Management  
-- 🌍 Currently working at **ConsenSys** (remote-first, cloud-native, Web3/crypto-focused)  
-- ☁️ Experienced across **AWS & Azure, Google Workspace, Cloudflare, Falcon Crowdstrike, CI/CD **  
-- 📜 Skilled in IAM, Zero-Trust, DLP, and regulatory frameworks (NIST CSF, MiCA, DORA, GDPR)  
-- ✍️ Published author on ISACA Now blog — *“Multilayer Zero-Trust Security: A Blueprint from Biological Cell Architecture”*  
+- Cloud security architecture across AWS and Azure
+- Identity, access, and zero-trust design
+- GRC engineering, control mapping, and evidence workflows
+- Regulatory and framework alignment including NIST CSF, GDPR, DORA, and MiCA
 
----
+## Featured Public Work
 
-## 📂 Featured Projects  
+### [GRC as Code Lab](https://github.com/Jaymeso/grc-as-code-lab)
 
-🔹 **[ZeroTrust-Architecture](#)**  
-Case studies, diagrams, and frameworks for designing multi-layer zero-trust environments.  
+A hands-on governance engineering project that turns infrastructure findings into control failures, framework impacts, risk scores, evidence outputs, and executive reporting.
 
-🔹 **[Cloud-Security-Toolkit](#)**  
-Sanitized IAM policies, Terraform snippets, and cloud hardening best practices.  
+### [jaymeso.github.io](https://jaymeso.github.io/)
 
-🔹 **[Risk-Assessment-Templates](#)**  
-Vendor risk matrices, STRIDE models, and supply-chain assessment frameworks.  
+A public landing page for training and portfolio visibility. Public-safe summaries live there, while private teaching assets are managed separately.
 
-🔹 **[Security-Training-Notes](#)**  
-Awareness and technical notes (AWS, IAM Analyzer, Amazon Detective, etc.) formatted for quick use.  
+## Working Style
 
-🔹 **[Articles-and-Publications](#)**  
-Markdown versions of my published and draft articles on governance and architecture.  
+- Build for clarity, not just compliance
+- Prefer evidence-backed assurance over checklist-only security
+- Connect technical controls to operational and regulatory outcomes
 
----
+## Current Direction
 
-## 🛠️ Skills & Tools  
-- **Identity & Access Management (IAM):** Okta, AWS IAM, Azure Conditional Access  
-- **Zero Trust:** Cloudflare WARP, TLS traffic inspection, policy enforcement  
-- **Cloud Security:** AWS, Azure, Google Workspace (config, posture mgmt)  
-- **Governance & Risk:** DORA, MiCA, GDPR, vendor risk assessments  
-- **Frameworks:** NIST CSF, STRIDE, UML architecture modeling  
-- **Collaboration:** Jira, Confluence, GitHub  
+This GitHub profile is being curated around practical security, GRC-as-code, and training-focused work. Over time, it will highlight a smaller set of polished public repositories rather than placeholder project ideas.
 
----
+## Background
 
-## 📬 Connect with Me  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📎 [Resume (PDF)](link-to-your-resume)  
-- ✍️ [Articles](link-to-your-blog-or-isaca-post)  
-
----
-⭐️ *“Security is not just about defense, but about enabling trust at scale.”*
-
+- 20+ years across IT audit, cybersecurity, and risk management
+- Experience spanning cloud platforms, collaboration tooling, endpoint and identity controls, and assurance programs
+- Published on governance and security architecture topics, including zero-trust design
